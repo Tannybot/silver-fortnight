@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+uuid
+tkinter
+python-dateutil
+schedule
+jinja2
+folium
+streamlit-folium
+requests

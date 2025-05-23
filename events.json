@@ -1,0 +1,43 @@
+{
+    "d3c8fd00-bf5a-44e3-98d5-361adc4e527d": {
+        "name": "fhgf",
+        "desc": "dfgd",
+        "date": "2025-05-23",
+        "time": "11:43:00",
+        "location": "sfg",
+        "capacity": 1,
+        "registered": 1,
+        "created_at": "2025-05-23 11:44:09.655497"
+    },
+    "f7716109-5951-449a-96e3-cc43d6a864fc": {
+        "name": "SK Basketball Tournament",
+        "desc": "\ud83c\udfc0 Get ready for action! The SK Basketball Competition is here \u2014 where youth, teamwork, and passion collide on the court! \ud83c\udfc6\ud83d\udd25\n\nDon't miss the shot \u2014 sign up today! #SKBasketball2025 #GameOn #YouthInAction\n",
+        "date": "2025-05-23",
+        "time": "08:00:00",
+        "location": "San Juan, Surigao City, Surigao del Norte",
+        "capacity": 50,
+        "registered": 0,
+        "created_at": "2025-05-23 11:53:07.166677"
+    },
+    "551f3c41-2e83-454f-9dc7-80df9f3635c0": {
+        "name": "SDSD",
+        "desc": "asdsd",
+        "date": "2025-05-23",
+        "time": "00:15:00",
+        "location": "sanjuan",
+        "capacity": 123,
+        "registered": 1,
+        "created_at": "2025-05-23 12:00:14.944041"
+    },
+    "81ff43c3-9598-49e5-9b72-21efbcafc3bf": {
+        "name": "asdasdadsdasdsadsadsadasdasdas",
+        "desc": "asdasd",
+        "date": "2025-05-23",
+        "time": "13:00:00",
+        "end_time": "14:00:00",
+        "location": "asdds",
+        "capacity": 121,
+        "registered": 0,
+        "created_at": "2025-05-23 12:45:01.317947"
+    }
+}
